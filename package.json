@@ -1,7 +1,7 @@
 {
   "name": "google-places-browser",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Google place API client for the browser",
   "license": "MIT",
   "repository": "bendrucker/google-places-browser",
