@@ -1,4 +1,4 @@
-# google-places-browser [![Build Status](https://travis-ci.org/bendrucker/google-places-browser.svg?branch=master)](https://travis-ci.org/bendrucker/google-places-browser)
+# google-places-browser [![Build Status](https://travis-ci.org/bendrucker/google-places-browser.svg?branch=master)](https://travis-ci.org/bendrucker/google-places-browser) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/google-places-browser.svg)](https://greenkeeper.io/)
 
 > Google place API client for the browser
 
