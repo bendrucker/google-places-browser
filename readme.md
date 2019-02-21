@@ -19,7 +19,7 @@ var Places = require('google-places-browser/places')
 var autocomplete = Autocomplete(window.google)
 var places = Places(window.google)
 
-autocomplete.places({input: 'San Francisco'}, function (err, results) {
+autocomplete.place({input: 'San Francisco'}, function (err, results) {
   //=> handle err/result array  
 })
 
